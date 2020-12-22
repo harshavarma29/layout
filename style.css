@@ -1,0 +1,65 @@
+.form {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    overflow: auto;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    font-size: 23px;
+    background-color: black;
+    width: 93%;
+    padding: 10px;
+}
+
+.logo {
+    width: 13px;
+    float: right;
+    cursor: pointer;
+}
+
+.name {
+    margin: 12px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.input {
+    margin: 8px;
+    padding: 8px;
+    outline: none;
+    width: 78%;
+    font-size: 16px;
+}
+
+.btn {
+    padding: 11px;
+    width: 84%;
+    color: white;
+    font-weight: 600;
+    outline: none;
+    margin: 8px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.footer {
+    width: 100%;
+    margin: 15px 25px;
+}
+
+.password {
+    float: left;
+    color: black;
+}
